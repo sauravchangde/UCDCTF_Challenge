@@ -1,0 +1,22 @@
+  .level5 {
+    height: 128vh;
+    width: 100vw;
+    background: url('level5.jpeg') center/cover no-repeat;
+  }
+
+
+  .level5-login-container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 3%;
+    transform: scale(0.5);
+    margin-top: -16%;
+  }
+
+  .level5-content {
+    margin-top: 10px;
+    color: #555;
+  
+  }

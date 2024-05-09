@@ -1,0 +1,21 @@
+  .level4 {
+    height: 121vh;  
+    width: 100vw;
+    background: url('sqlinjbg.png') center/cover no-repeat;
+  }
+
+  .level4-login-container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 3%;
+    transform: scale(0.5);
+    margin-top: -12%;
+  }
+
+  .level4-content {
+    margin-top: 10px;
+    color: #555;
+  
+  }

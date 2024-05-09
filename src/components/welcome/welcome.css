@@ -1,0 +1,93 @@
+
+.welcome {
+  height: 100vh;
+  width: 100vw;
+  background: url('210.png') center/cover no-repeat;
+}
+
+.button-container {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.welcome-buttons {
+  background: #67C23A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 100px 100px;
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 4em;
+  margin-left: 2%;
+  margin-right: 2%;
+  border: 7px solid white;
+}
+
+.header {
+	background-color: #000000;
+	padding: 10px 0;
+	text-align: center;
+}
+
+.header img {
+	width: 450px;
+	/* Adjust as per your logo size */
+	vertical-align: middle;
+}
+
+.header h1 {
+	display: inline;
+	margin-left: 10px;
+	vertical-align: middle;
+	color: #67C23A;
+	/* Green color like in the screenshot */
+}
+
+
+.level-list {
+  margin-top: 5%;
+}
+
+.level-list li {
+	color: #7ca467;
+  font-size: 2em;
+	/* Green color like in the screenshot */
+}
+
+.intro {
+	transform: scale(0.6);
+}
+
+.intro h2 {
+	color: #67C23A;
+  font-size: 5em;
+  border: 3px solid white;
+  margin-top: 0;
+
+	/* Green color like in the screenshot */
+}
+
+.intro p {
+	color: #ffffff;
+  font-size: 2em;
+}
+
+.footer {
+	text-align: center;
+	padding: 10px;
+}
+
+.footer a {
+	color: #67C23A;
+	/* Green color like in the screenshot */
+	text-decoration: none;
+	padding: 5px 10px;
+	border: 1px solid #67C23A;
+	/* Green border */
+	border-radius: 5px;
+	margin: 5px;
+}
